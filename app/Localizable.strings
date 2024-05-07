@@ -1,0 +1,227 @@
+/*
+  Localizable.strings
+
+  Created by Demyanchuk Dmitry on 29.01.1715 ;)
+  Copyright © 1715 raccoonsquare@gmail.com All rights reserved.
+*/
+
+"admob_app_id" = "app-pub-3940256099942544~1458002511"; // Test: app-pub-3940256099942544~1458002511
+"admob_banner_id" = "ca-app-pub-3940256099942544/2934735716"; // Test: ca-app-pub-3940256099942544/2934735716
+"admob_rewarded_id" = "ca-app-pub-3940256099942544/1712485313"; //Test: ca-app-pub-3940256099942544/1712485313
+
+"alert_message" = "Would you like to continue learning how to use iOS alerts?";
+"alert_logout" = "You really want to quit?";
+"alert_account_blocked" = "You account blocked";
+"alert_error_change_password" = "Incorrect current password or invalid format new password";
+"alert_success_change_password" = "Password successfully changed!";
+"incorrect_login_message" = "Incorrect login or password";
+"remind_link_sent_to_email" = "Link to reset password sent to you email";
+"remind_error_email" = "User with this email not exist in db";
+"login_taken_message" = "Username taken";
+"email_taken_message" = "Email taken";
+"email_error" = "Email taken or incorrect format";
+"username_error" = "Username taken or incorrect format";
+"fullname_error" = "Fullname must be than 2 character";
+"password_error" = "Password format incorrect";
+
+"placeholder_search" = "Search";
+"placeholder_gallery_item_comment" = "You comment to photo here...";
+
+"label_loading" = "Loading...";
+
+"label_new_follower_title" = "Follow";
+"label_new_follower" = "You have new follower";
+"label_new_message_title" = "Message";
+"label_new_message" = "You have new message";
+"label_new_like_title" = "Like";
+"label_new_like" = "You have new like";
+"label_new_comment_title" = "Comment";
+"label_new_comment" = "You have new comment";
+"label_new_comment_reply_title" = "Comment reply";
+"label_new_comment_reply" = "You have new comment reply";
+"label_new_gift_title" = "Gift";
+"label_new_gift" = "You have new gift";
+
+"label_gcm_gifts" = "Gifts";
+"label_gcm_comments" = "Comments";
+"label_gcm_comments_reply" = "Comment Reply";
+"label_gcm_followers" = "Followers";
+"label_gcm_likes" = "Likes";
+"label_gcm_messages" = "Messages";
+
+"label_credits" = "Credits";
+"label_balance" = "Balance";
+"label_you_balance" = "You Balance";
+"label_you_sure" = "Are you sure?";
+"label_you_balance_null" = "On your balance has not enough funds";
+
+"label_activity" = "Activity";
+"label_online" = "Online";
+
+"action_enable" = "Enable";
+"action_disable" = "Disable";
+
+"label_enabled" = "Enabled";
+"label_disabled" = "Disabled";
+
+"action_send" = "Send";
+"action_yes" = "Yes";
+"action_no" = "No";
+"action_cancel" = "Cancel";
+"action_image_from_library" = "Photo Library";
+"action_image_from_camera" = "Camera";
+"action_save" = "Save";
+"action_change" = "Change";
+"action_report" = "Report";
+"action_unblock" = "Unblock";
+"action_block" = "Block";
+"action_add_to_freinds" = "Add to Friends";
+"action_remove_from_freinds" = "Delete from Friends";
+"action_edit" = "Edit";
+"action_accept" = "Accept";
+"action_reject" = "Reject";
+"action_remove" = "Remove";
+"action_delete" = "Delete";
+"action_reply" = "Reply";
+"action_view_profile" = "View Profile";
+
+"action_photo_from_library" = "Photo From Library";
+"action_photo_from_camera" = "Photo From Camera";
+"action_cover_from_library" = "Cover From Library";
+"action_cover_from_camera" = "Cover From Camera";
+
+// Settings | Privacy
+
+"label_privacy_messages" = "Private messages";
+"action_from_all" = "From all users";
+"action_from_friends" = "Only from friends";
+
+"label_privacy_items_comments" = "Comments to my posts";
+"label_privacy_video_comments" = "Comments to my videos";
+"label_privacy_gallery_comments" = "Gallery comments";
+"action_on" = "On";
+"action_off" = "Off";
+
+"action_follow" = "Follow";
+"action_unfollow" = "Unfollow";
+"label_choice_action" = "Choice action";
+"label_item_remove_message" = "Delete this Item?";
+"label_gallery_item_menu" = "Item actions";
+"label_search_empty" = "Nothing found.";
+"label_empty" = "List is empty.";
+"label_item_not_exist" = "Item not Exist.";
+"label_friend_request" = "Friends Request";
+"label_profile" = "Profile";
+"label_people_search_result" = "Find people";
+"label_profile_photo" = "Profile Photo";
+"label_profile_info" = "Profile Info";
+"label_fullname" = "Fullname";
+"label_facebook" = "Facebook";
+"label_instagram" = "Instagram";
+"label_location" = "Location";
+"label_gender" = "Gender";
+"label_male" = "Male";
+"label_female" = "Female";
+"label_undefined" = "Undefined";
+"label_pending" = "Pending...";
+"label_choice_image" = "Choice image";
+
+"label_gift_added" = "mafe a gift.";
+"label_friend_request_added" = "sent you request to friends";
+"label_follow_you" = "followed you";
+"label_comment_reply_added" = "replied to you comment";
+"label_comment_added" = "added a new comment";
+"label_likes_item" = "likes you item";
+"label_likes_profile" = "likes you profile";
+"label_likes_gallery_item" = "likes you gallery item";
+
+"label_gallery" = "Gallery";
+"label_friends" = "Friends";
+"label_followers" = "Followers";
+"label_following" = "Following";
+"label_likes" = "Likes";
+"label_gifts" = "Gifts";
+"label_items" = "Posts";
+"label_favorites" = "Favorites";
+"label_guests" = "Guests";
+"label_feed" = "Feed";
+"label_stream" = "Stream";
+"label_item" = "Post";
+"label_profile_items" = "Profile posts";
+
+"label_abuse_report" = "Abuse report";
+"label_report_spam" = "Spam";
+"label_report_hate" = "Hate speech or violence";
+"label_report_nudity" = "Nudity or Pornography";
+"label_report_fake" = "Fake profile";
+"label_report_piracy" = "Piracy";
+
+"label_join_date" = "Join Date";
+"label_birth_date" = "Birth Date";
+
+"label_location_no_access" = "No Access to you Location. Please grant access";
+"label_location_services_disabled" = "Location services are not enabled";
+
+"label_near_you" = "Near you";
+"label_km" = "km";
+
+"label_profile_blocked" = "This profile blocked";
+
+// Version 1.1
+
+"label_privacy_info" = "Show profile info only for friends";
+"label_privacy_videos" = "Show my videos only for friends";
+"label_privacy_friends" = "Show my friends only for friends";
+"label_privacy_photos" = "Show photos only for friends";
+"label_privacy_gifts" = "Show gifts only for friends";
+
+// Version 1.2
+"action_cancel_request" = "Cancel Request";
+
+"label_groups" = "Communities";
+"label_my_groups" = "My Communities";
+"label_group_search_result" = "Find communities";
+"label_group" = "Community";
+"placeholder_new_item_comment" = "You text here...";
+
+// Version 1.3
+
+"action_send_sticker" = "Select Sticker";
+"action_send_image" = "Choice Picture";
+"label_choice_action" = "Choice Action";
+
+// Version 1.5
+
+"label_seen" = "seen";
+"label_typing" = "typing...";
+"chat_view_controller_title" = "Chat";
+"label_new_friend_request" = "You have a new friend request";
+"label_new_friend_request_title" = "Friend request";
+
+// Version 1.6
+
+"action_facebook_login" = "Log in with Facebook";
+"action_facebook_signup" = "Signup with Facebook";
+"action_facebook_connect" = "Connect to Facebook";
+"action_facebook_disconnect" = "Disonnect from Facebook";
+"action_regular_signup" = "Regular Signup";
+
+"alert_account_connect_success" = "You account success connected with Facebook";
+"alert_account_connect_error" = "With Facebook account alredy connect with another account";
+"alert_account_disconnect_success" = "You account success disconnect from Facebook";
+
+// Version ...
+
+"label_profile_photo_title" = "Photo";
+"label_profile_photo_approve" = "You profile photo approved by moderator";
+"label_profile_photo_reject" = "You profile photo rejected by moderator";
+
+"label_profile_cover_title" = "Cover";
+"label_profile_cover_approve" = "You profile cover approved by moderator";
+"label_profile_cover_reject" = "You profile cover rejected by moderator";
+
+//
+
+"label_item_pinned" = "Pinned";
+"action_pin" = "Pin";
+"action_unpin" = "Unpin";
